@@ -24,7 +24,7 @@ export default {
       defaultValue: false,
       control: 'boolean'
     },
-    readOnly: {
+    readonly: {
       defaultValue: false,
       control: 'boolean'
     },
