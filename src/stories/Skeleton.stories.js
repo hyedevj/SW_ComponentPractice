@@ -17,7 +17,7 @@ Circle.argTypes = {
 
 export const Paragraph = (args) => <Skeleton.Paragraph {...args} />
 Paragraph.argTypes = {
-  size: { line: 3, control: 'number' },
+  line: { line: 3, control: 'number' },
 }
 
 export const Sample = () => {
