@@ -1,5 +1,5 @@
-import Avatar from "../components/Avatar";
-import Toggle from "../components/Toggle"
+import Avatar from "../../components/Avatar";
+import Toggle from "../../components/Toggle"
 
 export default {
   title: 'Component/Avatar',
